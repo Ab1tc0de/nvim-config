@@ -8,6 +8,7 @@ require("color.cmp-color")
 
 -- lualine
 require("plugins.lualine")
+
 -- neo-tree
 require("plugins.neo-tree")
 
